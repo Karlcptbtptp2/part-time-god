@@ -1,6 +1,6 @@
 {
   "name": "part-time-god",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "兼职上帝：对话的同时也兼职作为上帝，创造一个你自己的世界。DSH 插件（宿主半边 + 浏览器半边）。",
   "type": "module",
   "main": "lib/index.js",
